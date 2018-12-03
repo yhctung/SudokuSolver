@@ -1,19 +1,9 @@
-% By submitting this assignment, I agree to the following:
-%  “Aggies do not lie, cheat, or steal, or tolerate those who do”
-%  “I have not given or received any unauthorized aid on this assignment”
-
-% Name: 		YUNG-HSIN TUNG
-% Section:		201
-% Team:         6
-% Assignment:	MATLAB SUDOKU PRELIM
-% Date:         18 APRIL 2018
-
 % REQUIREMENTS
     % load a puzzle from a file or give the user the option of entering a puzzle by hand.
     % display the puzzle entered showing the puzzle grid along with the initial puzzle entries.
     % implement the algorithm you developed to attempt to solve the puzzle.  
     % display any new entries found through your algorithm 
-    % ahow whether algorithm was successful (solved or stuck?)
+    % show whether algorithm was successful (solved or stuck?)
     
 %-------------------------------------------------------------------------
 
